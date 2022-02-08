@@ -1,0 +1,8 @@
+name = "citizen-uae-worker"
+type = "javascript"
+
+account_id = "1525b4e3ae677ea82618de7bedf5c520"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2022-02-06"
